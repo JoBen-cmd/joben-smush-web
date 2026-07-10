@@ -1,0 +1,1 @@
+# Stage Animation Data (.nuanmb)
