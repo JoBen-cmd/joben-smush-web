@@ -1,40 +1,47 @@
-# Summary
+# Summary [WIP]
 
 - [Introduction](./introduction.md)
     - [Resources](./resources.md)
     - [Stage Code Names](./code_name.md)
 
-# Stage Model/Motion
+# Stage Model/Motion [WIP]
 
 - [Model](./model.md)
 
-- [Motion](./motion.md)
-    - [Stage Animation Data (.nuanmb)](cli/nuanmb.md)
-    - [Camera Path](cli/camera_path.md)
-# Stage Models
+- [Motion]()
+    - [Stage Animation Data (.nuanmb)]()
+    - [Camera Path]()
 
-- [Param](./param.md)
-    - [Level Data (.lvd)](cli/lvd.md)
-    - [Stage Parameters (.stprm)](cli/stprm.md)
-    - [Stage Data (.stdat)](cli/stdat.md)
+# Stage Params [WIP]
 
-# Stage Rendering/Preview
+- [Param]()
+    - [Level Data (.lvd)]()
+    - [Stage Parameters (.stprm)]()
+    - [Stage Data (.stdat)]()
+
+# Stage Rendering/Preview [WIP]
 
 - [Render](./render.md)
-    - [Light](cli/init.md)
-    - [Loupe](cli/loupe.md)
-    - [Reflection Cubemap](cli/reflection_cubemap.md)
-    - [Render Param](cli/render_param.md)
-    - [Ambient Lighting (.shpcanim)](cli/shpcanim.md)
+    - [Light]()
+    - [Loupe]()
+    - [Reflection Cubemap]()
+    - [Render Param]()
+    - [Ambient Lighting (.shpcanim)]()
 
 - [Stage UI](./stage_ui.md)
-    - [Series Logo (stage_0)](cli/series.md)
-    - [Small Portrait (stage_1)](cli/stage_1.md)
-    - [Normal Portrait (stage_2)](cli/stage_2.md)
-    - [Omega Portrait (stage_3)](cli/stage_3.md)
-    - [Battlefield Portrait (stage_4)](cli/stage_4.md)
-    - [MSBT](cli/msbt.md)
+    - [Series Logo (stage_0) [WIP]](cli/series.md)
+    - [Small Portrait (stage_1)]()
+    - [Normal Portrait (stage_2)]()
+    - [Omega Portrait (stage_3)]()
+    - [Battlefield Portrait (stage_4)]()
+    - [MSBT]()
 
-# Blender
+# Blender [WIP]
 
-- [Smash Utlimate Blender](./blender.md)
+- [Smash Utlimate Blender [WIP]](./blender.md)
+    - [Introduction](./blender_introduction.md)
+    - [Project Setup](./project_setup.md)
+    - [Material Setup](./material_setup.md)
+    - [Baking](./baking.md)
+    - [Importing Assets](./importing_assets.md)
+    - [Optimizations](./optimizations.md)
