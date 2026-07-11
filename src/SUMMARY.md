@@ -38,3 +38,4 @@
 # Blender
 
 - [Smash Utlimate Blender](./blender.md)
+    - [Optimizations](./optimizations.md)
