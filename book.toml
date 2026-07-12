@@ -4,3 +4,12 @@ authors = ["JoBen-cmd"]
 language = "en"
 
 [preprocessor.alerts]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
+
+[output]
+
+[output.html]
+additional-css = ["./mdbook-admonish.css"]
