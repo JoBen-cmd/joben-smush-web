@@ -9,5 +9,5 @@ If you have done all of these steps correctly, it should look something like thi
 
 Insert image
 
->[!WARNING]
+> [!WARNING]
 > Collada (.dae) files are no longer supported in Blender 5.0+. If you use a previous version, you can go and import it in an older version (4.5+ and below) and export it as a .fbx by clicking File > Export > FBX (.fbx). This should allow you to use the latest version of Blender if you wish to.
