@@ -10,7 +10,7 @@
 
 - [Motion]()
     - [Stage Animation Data (.nuanmb)]()
-    - [Camera Path]()
+    - [Camera Path](./motion/camera_path.md)
 
 # Stage Params [WIP]
 
