@@ -29,12 +29,7 @@
     - [Ambient Lighting (.shpcanim)]()
 
 - [Stage UI](./stage_ui.md)
-    - [Series Logo (stage_0) [WIP]](cli/series.md)
-    - [Small Portrait (stage_1)]()
-    - [Normal Portrait (stage_2)]()
-    - [Omega Portrait (stage_3)]()
-    - [Battlefield Portrait (stage_4)]()
-    - [MSBT]()
+    - [Creating Stage UI [WIP]](cli/creating_stage_ui.md)
 
 # Blender [WIP]
 
