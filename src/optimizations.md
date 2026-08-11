@@ -3,12 +3,16 @@
 ### Textures
 After importing all of the assets, you are also able to lower the filesize more by changing the Output Format with Ultimate Tex. Here’s what I recommend choosing depending on the texture name:
 
-* _col (Albedo) - BC1RgbaUnormSrgb or BC3RgbaUnormSrgb if the texture contains alpha.
-* _nor (Normal) - BC1RgbaUnorm
-* _prm (PBR)- BC1RgbaUnorm
-* _emi (Emissive)- BC1RgbaUnormSrgb
-* _ao or _gao (Anbeint Occlusion) - BC1RgbaUnormSrgb
-* _lit (Baked Lighting) - BC7RgbaUnormSrgb
+| UI Element | Preview |
+| :--- | :--- |
+| _col (Albedo) | BC1RgbaUnormSrgb or BC3RgbaUnormSrgb if the texture contains alpha. |
+| _nor (Normal) | BC1RgbaUnorm |
+| _prm (PBR) | BC1RgbaUnorm |
+| _emi (Emissive) | BC1RgbaUnormSrgb |
+| _ao or _gao (Anbeint Occlusion) | BC1RgbaUnormSrgb |
+| _lit (Baked Lighting) | BC7RgbaUnormSrgb |
+
+This will lower the file size at the cost of lower fidelity. If your texture requires a higher fidelity try using a higher # option such as BC3/7.
 
 From the <img src="/images/blender_icn/blender_icon_outliner_data_light.svg" style="vertical-align: middle; height: 1.2em;" alt="Stage_2 Preview"> section
 
