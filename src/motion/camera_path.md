@@ -23,3 +23,6 @@ Since the Blender plugin automatically assumes that when you export the animatio
 2. Drag the `.nuanmb` file to `ssbh_data_json` and you should now have a JSON format. 
 3. Open the JSON animation file and search for `gya_camera`. Change the name to `camera_stage`.
 4. Save the JSON file and drag the JSON file to `ssbh_data_json`. You should now have an animation file that is a camera path for stages. Make sure that the file is named properly!
+
+> [!NOTE]
+> Some stages such as Wuhu Island also contains stage material animation data. If your stage mod requires material animations to the camera path, you'll need to create a separate `.nuanmb` file and combine the two files together  with ssbh_data_json.
